@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+.mono {
+    font-family: "DM Mono", monospace;
+    font-style: normal;
+}
+
+.sans {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+html, body, #__nuxt {
+    @apply h-full bg-black
+}
+
+body, .menu {
+    @apply mono;
+    font-weight: 100;
+    font-size: 14px;
+    color: rgb(209 213 219);
+}
+
+
+/* .text-secondaryLight { color: secondaryLight }
+.text-primaryTransparent { color: primaryTransparent }
+.text-primaryLight { color: primaryLight }
+.text-primaryMedium { color: primaryMedium }
+.text-primaryDark { color: primaryDark }
+.text-secondaryDark { color: secondaryDark }
+
+.bg-secondaryLight { background-color: secondaryLight }
+.bg-primaryTransparent { background-color: primaryTransparent }
+.bg-primaryLight { background-color: primaryLight }
+.bg-primaryMedium { background-color: primaryMedium }
+.bg-primaryDark { background-color: primaryDark }
+.bg-secondaryDark { background-color: secondaryDark } */
+
+.text-primaryLight { color: primaryLight }
+.bg-primaryLight { background-color: primaryLight }
+.text-lightGray { color: lightGray }
+.bg-lightGray { background-color: lightGray }
