@@ -5,16 +5,6 @@ export default defineNuxtConfig({
     }
   },
 
-  $development: {
-    //
-  },
-
-  $env: {
-    staging: {
-      // 
-    }
-  },
-
   compatibilityDate: '2024-12-11',
   modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxthub/core'],
   
