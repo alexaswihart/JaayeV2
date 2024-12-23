@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   },
 
   compatibilityDate: '2024-12-11',
-  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxthub/core'],
   
   tailwindcss: {
     cssPath: ['~/assets/css/tailwind.css', { injectPosition: "first" }],
@@ -33,5 +33,9 @@ export default defineNuxtConfig({
       'DM+Mono': true,
       'DM+Sans': true
     }
+  },
+
+  hub: {
+    // NuxtHub options
   }
 })

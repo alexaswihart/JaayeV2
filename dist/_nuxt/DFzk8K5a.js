@@ -1,0 +1,1 @@
+import{p as s,_ as t,c,a as n,o}from"./5DMokMQm.js";const r=s("/img/JaayeCover.png"),a={},i={class:""};function l(_,e){return o(),c("div",i,e[0]||(e[0]=[n("img",{src:r,class:"justify-self-center self-center w-1/2 min-w-52 max-w-xl"},null,-1)]))}const m=t(a,[["render",l]]);export{m as default};

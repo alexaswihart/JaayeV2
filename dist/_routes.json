@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/_nuxt/*",
+    "/favicon.ico",
+    "/hub.config.json",
+    "/robots.txt",
+    "/css/nuxt-google-fonts.css",
+    "/fonts/DM_Mono-400-1.woff2",
+    "/fonts/DM_Mono-400-2.woff2",
+    "/fonts/DM_Sans-400-3.woff2",
+    "/fonts/DM_Sans-400-4.woff2",
+    "/img/Fonts_Colors.docx",
+    "/img/image.png",
+    "/img/jaaye concert may 24, 2024-113.jpg",
+    "/img/jaaye concert may 24, 2024-144.jpg",
+    "/img/jaaye photoshoot 1 (18 of 64).jpg",
+    "/img/jaaye photoshoot 1 (38 of 64).jpg",
+    "/img/jaaye photoshoot 1 (42 of 64).jpg",
+    "/img/Jaaye Photoshoot 2 (14 of 67).jpg",
+    "/img/Jaaye Photoshoot 2 (16 of 67).jpg",
+    "/img/Jaaye Photoshoot 2 (36 of 67).jpg",
+    "/img/Jaaye Photoshoot 2 (47 of 67).jpg",
+    "/img/Jaaye-Logo-png.png",
+    "/img/Jaaye-Ruckus-Room-Fl.png",
+    "/img/jaaye-starlight-logo (1).png",
+    "/img/jaaye-starlight-logo.png",
+    "/img/jaaye2024-initiative.png",
+    "/img/JaayeCover.png",
+    "/img/JaayeInfo.png",
+    "/img/Maria Artwork.png",
+    "/img/NEW jaaye logo png transparent.png"
+  ]
+}

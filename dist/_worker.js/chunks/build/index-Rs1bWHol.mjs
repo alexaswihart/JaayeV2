@@ -1,0 +1,2 @@
+import{N as s,O as e,H as r,P as o,f as t}from"../routes/renderer.mjs";import{_ as n}from"./server.mjs";import"../_/nitro.mjs";import"node:async_hooks";const a=s("/img/JaayeCover.png"),m={};const i=m.setup;m.setup=(s,e)=>{const r=t();return(r.modules||(r.modules=new Set)).add("pages/index.vue"),i?i(s,e):void 0};const d=n(m,[["ssrRender",function(s,t,n,m){t(`<div${e(r({class:""},m))}><img${o("src",a)} class="justify-self-center self-center w-1/2 min-w-52 max-w-xl"></div>`)}]]);export{d as default};
+//# sourceMappingURL=index-Rs1bWHol.mjs.map

@@ -1,0 +1,2 @@
+import{_ as s}from"./server.mjs";import{O as e,f as o}from"../routes/renderer.mjs";import"../_/nitro.mjs";import"node:async_hooks";const r={};const t=r.setup;r.setup=(s,e)=>{const r=o();return(r.modules||(r.modules=new Set)).add("pages/videos.vue"),t?t(s,e):void 0};const n=s(r,[["ssrRender",function(s,o,r,t){o(`<div${e(t)}></div>`)}]]);export{n as default};
+//# sourceMappingURL=videos-DzIEVVZO.mjs.map

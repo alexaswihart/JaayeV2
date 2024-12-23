@@ -1,0 +1,2 @@
+import{_ as s}from"./server.mjs";import{O as o,H as e,f as r}from"../routes/renderer.mjs";import"../_/nitro.mjs";import"node:async_hooks";const t={};const n=t.setup;t.setup=(s,o)=>{const e=r();return(e.modules||(e.modules=new Set)).add("pages/shows.vue"),n?n(s,o):void 0};const a=s(t,[["ssrRender",function(s,r,t,n){r(`<div${o(e({class:"sans warning"},n))}> NO SHOWS COMING UP </div>`)}]]);export{a as default};
+//# sourceMappingURL=shows-Bn4uH86K.mjs.map

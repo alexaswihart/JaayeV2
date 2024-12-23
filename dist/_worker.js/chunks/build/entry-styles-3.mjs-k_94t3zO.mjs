@@ -1,0 +1,2 @@
+const t=".title{color:#d1d5db;display:flex;font-size:80px;font-weight:900;justify-content:center}.menu:hover,.title:hover{color:#9ca3af}li{display:inline;margin:5px}footer{padding-bottom:20px}";export{t as a};
+//# sourceMappingURL=entry-styles-3.mjs-k_94t3zO.mjs.map

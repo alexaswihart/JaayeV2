@@ -1,0 +1,16 @@
+{
+  "date": "2024-12-23T18:10:23.589Z",
+  "preset": "cloudflare-pages",
+  "framework": {
+    "name": "nuxt",
+    "version": "3.14.1592"
+  },
+  "versions": {
+    "nitro": "2.10.4"
+  },
+  "commands": {
+    "preview": "npx nuxthub preview",
+    "deploy": "npx nuxthub deploy"
+  },
+  "config": {}
+}
